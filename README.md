@@ -156,4 +156,5 @@ We would like to thank the organizers of the [RecSys 2025 Challenge](https://rec
 For inquiries, collaboration, or questions regarding this submission, please contact the **Dargk Team** at:
 
 📧 [Antonela Tommasel](https://tommantonela.github.io) (antonela.tommasel@isistan.unicen.edu.ar)
+
 📧 [Juan Manuel Rodriguez](https://sites.google.com/site/rodriguezjuanmanuel/home) (jmro@cs.aau.dk)
