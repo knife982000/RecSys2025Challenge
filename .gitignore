@@ -213,7 +213,7 @@ __marimo__/
 data/*
 
 # But do not ignore this file
-!data/keep_this_file.txt
+!data/Placeholder.md
 
 # Model files and preprocess data
 
