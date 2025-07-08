@@ -32,6 +32,7 @@ During inference, we concatenate the mean embeddings from two BEHAV-E models as 
 
 ## 📁 Repository Structure
 
+* EmbeddingAnalysis: contains the code for reproduce the analysis as well as more details than the ones presented on the paper.
 * data/ # Folder where the decompressed dataset should be placed
 * 01-TextEncodeTrain.py # Trains the LSTM autoencoder for text embeddings
 * 02-TextEncodeProcess.py # Encodes the search text using the trained autoencoder
