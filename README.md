@@ -67,7 +67,7 @@ conda activate behav-e
 
 3. **Prepare the dataset:**
 
-* Download and extract the dataset into the data/ directory.
+* Download [the dataset](https://recsys.synerise.com/summary#download) and extract the dataset into the data/ directory.
 
 4. **Pretrained models**
 
