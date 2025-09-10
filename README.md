@@ -220,7 +220,23 @@ The pretrained models used for generate our submission can be downloaded from [a
 We would like to thank the organizers of the [RecSys 2025 Challenge](https://recsys.synerise.com/) for providing a valuable dataset and a well-designed competition platform.
 
 ---
-
+## 📝Cite us!
+```bibtex
+@inproceedings{10.1145/3758126.3758130,
+   author = {Rodriguez, Juan Manuel and Tommasel, Antonela},
+   title = {BEHAV-E! You are Not Just a Number to Us, but an {$\mathbb{R}^{2048}$} Embedding},
+   year = {2025},
+   isbn = {9798400720994},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   url = {https://doi.org/10.1145/3758126.3758130},
+   doi = {10.1145/3758126.3758130},
+   booktitle = {Proceedings of the Recommender Systems Challenge 2025},
+   pages = {16–20},
+   numpages = {5},
+   series = {RecSysChallenge '25}
+}
+```
 ## 📫 Contacts
 
 For inquiries, collaboration, or questions regarding this submission, please contact the **Dargk Team** at:
